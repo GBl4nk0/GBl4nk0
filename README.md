@@ -14,11 +14,9 @@
 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Blank-Assembly" height="30" width="40" src="https://raw.githubusercontent.com/Farhinarius/Farhinarius/8a4061971267b6baa5f3765b4fa762804ea8ecae/Icons/x86-64-assembly.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
+  <img align="center" alt="Blank-Assembly" height="30" width="40" src="https://raw.githubusercontent.com/Farhinarius/Farhinarius/8a4061971267b6baa5f3765b4fa762804ea8ecae/Icons/x86-64-assembly.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">   
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 </div>
