@@ -1,6 +1,7 @@
 
 - 💻 Estudando programação em Low Level.
 - 📖 Cursando Segurança da Informação.
+- 📜 Entusiasta em criptografia clássica.
 
 ##
 
