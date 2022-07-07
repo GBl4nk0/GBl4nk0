@@ -7,7 +7,7 @@
 <div>
   <a href="https://github.com/GBl4nk0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GBl4nk0&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GBl4nk0&layout=compact&langs_count=7&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GBl4nk0&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ##
