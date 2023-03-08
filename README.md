@@ -1,7 +1,3 @@
-
-- 💻 Estudando programação em Low Level.
-- 📖 Cursando Segurança da Informação.
-
 ##
 
 <div>
